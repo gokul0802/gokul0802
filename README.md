@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! This is Gokul, I am an IT student who is currently pursuing Engineering from Bharati Vidyapeeth College of Engineering, Pune.
+I am Currently working on multiple Cloud applications and Machine Learning Models.
 
 <!--
 **gokul0802/gokul0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
